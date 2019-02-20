@@ -14,3 +14,5 @@
 * [usezfsyo-notes&scripts](https://github.com/usezfsyo/pwk)
 * [umasolution-notes&scripts](https://github.com/umasolution/labs)
 * [labs-exploits](https://github.com/AndreiAvadanei/Exploits)
+### Payload
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
