@@ -9,3 +9,8 @@
 * [Powershell](https://github.com/samratashok/nishang)
 ### Reverse Shell
 * [icmp](https://github.com/inquisb/icmpsh)
+### About lab-script*notes
+* [krubottom](https://github.com/krubottom/OSCP-Study/tree/master/lab-notes)
+* [usezfsyo-notes&scripts](https://github.com/usezfsyo/pwk)
+* [umasolution-notes&scripts](https://github.com/umasolution/labs)
+* [labs-exploits](https://github.com/AndreiAvadanei/Exploits)
