@@ -6,3 +6,5 @@
 * [Check for valid credentials across a network over SMB](https://inquisb.github.io/keimpx/)
 ## Intranet penetration
 * [Windows&Linux shellcodeexec](https://github.com/inquisb/shellcodeexec)
+### Reverse Shell
+* [icmp](https://github.com/inquisb/icmpsh)
