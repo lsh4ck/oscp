@@ -5,6 +5,7 @@
 * [综合项目](https://github.com/AlessandroZ/BeRoot)
 ## About NTLM & hash
 * [Check for valid credentials across a network over SMB](https://inquisb.github.io/keimpx/)
+* [查看所有明文](https://github.com/AlessandroZ/LaZagne)
 ## Intranet penetration
 * [Windows&Linux shellcodeexec](https://github.com/inquisb/shellcodeexec)
 * [Powershell](https://github.com/samratashok/nishang)
